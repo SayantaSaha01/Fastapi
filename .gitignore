@@ -1,2 +1,19 @@
+# Python cache
 __pycache__/
-myenv
+*.pyc
+
+# Virtual environment
+myenv/
+venv/
+
+# Environment variables
+.env
+
+# Local database
+
+
+# PDF files (optional)
+
+
+# VS Code
+.vscode/
